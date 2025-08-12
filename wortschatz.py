@@ -36,13 +36,11 @@ def append_to_file(file_name, input_data):
     except Exception as e:
         print(f"An error occurred: {e}")
         
-        
-        
-#dictionary_file_path = '/home/neno/Desktop/Deutsch-lernen/Deutsch-2.csv'
-#statistics_file_path = '/home/neno/Desktop/Deutsch-lernen/Statistiken.csv'
 dictionary_file_path = './Wortschatz/Deutsch-2.csv'
-statistics_file_path = './Wortschatz/Statistiken.csv'
+statistics_file_path = './Statistiken.csv'
+dictionary_name = dictionary_file_path.split('/')[-1]
 word_list = read_csv_to_objects(dictionary_file_path)
+print(f"Hallo, Sie verwenden derzeit das {dictionary_name} Wörterbuch. Um das Spiel zu beenden, geben Sie „exit“ ein!")
 
 finish = False
 counter = 0
@@ -78,7 +76,7 @@ end_time = time.time()
 current_datetime = datetime.now()
 total_time = end_time - start_time
 formatted_time = time.strftime("%H:%M:%S", time.gmtime(total_time))
-result = f"{current_datetime};{formatted_time};{points};{counter};{round(points/counter*100, 2)}"
+result = f"{current_datetime};{formatted_time};{dictionary_name};{points};{counter};{round(points/counter*100, 2)}"
 print("===================================================================")
 print(f"TIME: {formatted_time}")
 print(f"RESULT: {points}/{counter} => {round(points/counter*100, 2)}%")
