@@ -1,0 +1,976 @@
+Pronomen;;jemand;;netko;/
+Pronomen;;niemand;;nitko;/
+Pronomen;;jeder;;svatko;/
+Pronomen;;alle;;svi;/
+Pronomen;;alles;;sve;/
+Pronomen;;etwas;;nešto;/
+Pronomen;;nichts;;ništa;/
+Substantiv;der;Mann;;muškarac;/
+Substantiv;die;Frau;;žena;/
+Substantiv;das;Kind;;dijete;/
+Substantiv;die;Leute;;ljudi;/
+Substantiv;das;Kinn;;brada;/
+Substantiv;die;Brust;;grudi;/
+Substantiv;der;Kopf;;glava;/
+Substantiv;die;Leber;;jetra;/
+Substantiv;das;Knie;;koljeno;/
+Substantiv;das;Gesicht;;lice;/
+Substantiv;die;Wirbelsäule;;kralježnica;/
+Substantiv;der;Rücken;;leđa;/
+Substantiv;das;Gehirn;;mozak;/
+Substantiv;das;Bein;;noga;/
+Substantiv;die;Nase;;nos;/
+Substantiv;die;Wange;;obraz;/
+Substantiv;das;Auge;;oko;/
+Substantiv;die;Lungen;;pluća;/
+Substantiv;der;Finger;;prst;/
+Substantiv;die;Schulter;;rame;/
+Substantiv;der;Arm;;ruka;/
+Substantiv;das;Herz;;srce;/
+Substantiv;der;Fuß;;stopalo;/
+Substantiv;die;Hand;;ruka;/
+Substantiv;der;Bauch;;trbuh;/
+Substantiv;das;Ohr;;uho;/
+Substantiv;der;Mund;;usta;/
+Substantiv;der;Hals;;vrat;/
+Substantiv;der;Zahn;;zub;/
+Substantiv;der;Magen;;želudac;/
+Substantiv;das;Geburtsdatum;;datum rođenja;/
+Substantiv;der;Geburtstag;;rođendan;/
+Substantiv;der;Vorname;;ime;/
+Substantiv;der;Familienname;;prezime;/
+Substantiv;das;Alter;;dob;/
+Substantiv;das;Geschlecht;;spol;/
+Substantiv;der;Geburtsort;;mjesto rođenja;/
+Substantiv;die;Ausbildung;;stručna sprema;/
+Substantiv;der;Beruf;;struka;/
+Substantiv;der;Wohnsitz;;boravište;/
+Substantiv;der;Familienstand;;bračno stanje;/
+Substantiv;der;Witwer;;udovac;/
+Substantiv;die;Witwe;;udovica;/
+Substantiv;die;Staatsangehörigheit;;državljanstvo;/
+Substantiv;der;Personalausweis;;osobna iskaznica;/
+Substantiv;der;Vater;;otac;/
+Substantiv;die;Mutter;;majka;/
+Substantiv;der;Bruder;;brat;/
+Substantiv;die;Schwester;;sestra;/
+Substantiv;die;Eltern;;roditelji;/
+Substantiv;die;Kinder;;djeca;/
+Substantiv;die;Tochter;;kći;/
+Substantiv;der;Sohn;;sin;/
+Substantiv;die;Großmutter;;baka;/
+Substantiv;der;Großvater;;djed;/
+Substantiv;der;Enkel;;unuk;/
+Substantiv;die;Enkelin;;unuka;/
+Substantiv;der;Verwandte;;rođak;/
+Substantiv;die;Verwandte;;rođaka;/
+Substantiv;der;Neffe;;nećak;/
+Substantiv;die;Nichte;;nećakinja;/
+Substantiv;die;Wohnung;;stan;/
+Substantiv;das;Einfamilienhaus;;obiteljska kuća;/
+Substantiv;der;Stock;;kat;/
+Substantiv;das;Erdgeschoß;;prizemlje;/
+Substantiv;das;Dach;;krov;/
+Substantiv;der;Dachboden;;potkrovlje;/
+Substantiv;der;Keller;;podrum;/
+Substantiv;der;Balkon;;balkon;/
+Substantiv;die;Diele;;hodnik;/
+Substantiv;die;Tür;;vrata;/
+Substantiv;das;Fenster;;prozor;/
+Substantiv;das;Türschloß;;brava na vratima;/
+Substantiv;der;Schlüssel;;ključ;/
+Substantiv;die;Türklinke;;kvaka;/
+Substantiv;der;Hof;;dvorište;/
+Substantiv;der;Garten;;vrt;/
+Substantiv;der;Kronleuchter;;luster;/
+Substantiv;der;Sessel;;fotelja;/
+Substantiv;der;Fernseher;;televizor;/
+Substantiv;der;Teppich;;tepih;/
+Substantiv;der;Vorhang;;zavjesa;/
+Substantiv;das;Doppelbett;;bračni krevet;/
+Substantiv;das;Kopfkissen;;jastuk;/
+Substantiv;das;Bett;;krevet;/
+Substantiv;der;Schrank;;ormar za odjeću;/
+Substantiv;das;Bettuch;;plahta za krevet;/
+Substantiv;die;Bettdecke;;prekrivač;/
+Substantiv;die;Lampe;;svjetiljka;/
+Substantiv;die;Frisierkommode;;toaletni stolić;/
+Substantiv;das;Besteck;;pribor za jelo;/
+Substantiv;der;Eßtisch;;blagovaonski stol;/
+Substantiv;der;Stuhl;;stolica;/
+Substantiv;die;Serviette;;ubrus;/
+Substantiv;der;Kühlschrank;;hladnjak;/
+Substantiv;die;Geschirrspülmaschine;;perilica posuđa;/
+Substantiv;der;Wasserhahn;;pipa;/
+Substantiv;der;Herd;;štednjak;/
+Substantiv;die;Badewanne;;kada;/
+Substantiv;die;Waschmaschine;;perilica za rublje;/
+Substantiv;das;Handtuch;;ručnik za ruke;/
+Substantiv;das;Waschbecken;;umivaonik;/
+Substantiv;die;Kloschüssel;;wc školjka;/
+Substantiv;das;Mehl;;brašno;/
+Substantiv;der;Tee;;čaj;/
+Substantiv;die;Schokolade;;čokolada;/
+Substantiv;das;Ei;;jaje;/
+Substantiv;das;Joghurt;;jogurt;/
+Substantiv;der;Kaffee;;kava;/
+Substantiv;der;Keks;;keks;/
+Substantiv;die;Wurst;;kobasica;/
+Substantiv;der;Kuchen;;kolač;/
+Substantiv;das;Brot;;kruh;/
+Substantiv;die;Margarine;;margarin;/
+Substantiv;die;Marmelade;;pekmez;/
+Substantiv;die;Butter;;maslac;/
+Substantiv;das;Fett;;mast;/
+Substantiv;der;Honig;;med;/
+Substantiv;das;Fleisch;;meso;/
+Substantiv;die;Milch;;mlijeko;/
+Substantiv;der;Essig;;ocat;/
+Substantiv;der;Pfeffer;;papar;/
+Substantiv;das;Brötchen;;pecivo;/
+Substantiv;der;Reis;;riža;/
+Substantiv;der;Käse;;sir;/
+Substantiv;das;Salz;;sol;/
+Substantiv;der;Zucker;;šećer;/
+Substantiv;der;Schinken;;šunka;/
+Substantiv;die;Teigwaren;;tjestenina;/
+Substantiv;das;Öl;;ulje;/
+Substantiv;das;Gewürz;;začin;/
+Substantiv;der;Pfirsch;;breskva;/
+Substantiv;die;Melone;;dinja;/
+Substantiv;die;Trauben;;grožđe;/
+Substantiv;der;Apfel;;jabuka;/
+Substantiv;die;Erdbeere;;jagoda;/
+Substantiv;die;Aprikose;;marelica;/
+Substantiv;die;Birne;;kruška;/
+Substantiv;die;Zitrone;;limun;/
+Substantiv;die;Wassermelone;;lubenica;/
+Substantiv;die;Orange;;naranča;/
+Substantiv;die;Mandel;;badem;/
+Substantiv;die;Haselnuß;;lješnjak;/
+Substantiv;die;Wahlnuß;;orah;/
+Substantiv;der;Knoblauch;;češnjak;/
+Substantiv;die;rote Bete;;cikla;/
+Substantiv;die;Zwiebel;;luk;/
+Substantiv;die;Erbste;;grašak;/
+Substantiv;die;Gurke;;krastavac;/
+Substantiv;die;Kartoffel;;krumpir;/
+Substantiv;das;Kraut;;kupus;/
+Substantiv;die;Möhre;;mrkva;/
+Substantiv;der;Paprika;;paprika;/
+Substantiv;die;Tomate;;rajčica;/
+Substantiv;der;Rasierapparat;;aparat za brijanje;/
+Substantiv;der;Kamm;;češalj;/
+Substantiv;die;Haarbürste;;četka za kosu;/
+Substantiv;die;Zahnbürste;;četkica za zube;/
+Substantiv;die;Rasiercreme;;krema za brijanje;/
+Substantiv;die;Zahnpaste;;pasta za zube;/
+Substantiv;die;Seife;;sapun;/
+Substantiv;das;Haarschampoo;;šampon za kosu;/
+Substantiv;das;Kleidungsstück;;odjevni predmet;/
+Substantiv;das;Schuhwerk;;obuća;/
+Substantiv;die;Unterwäsche;;donje rublje;/
+Substantiv;der;Schuh;;cipela;/
+Substantiv;der;Strümpf;;čarapa;/
+Substantiv;die;Stiefel;;čizme;/
+Substantiv;der;Pullover;;džemper;/
+Substantiv;die;Hose;;hlače;/
+Substantiv;die;Jacke;;jakna;/
+Substantiv;der;Mantel;;kaput;/
+Substantiv;die;Hausschuhe;;papuče;/
+Substantiv;der;Schlafanzug;;pidžama;/
+Substantiv;das;Unterhemd;;potkošulja;/
+Substantiv;die;Handschuhe;;rukavice;/
+Substantiv;der;Hut;;šešir;/
+Substantiv;der;Slip;;gaćice;/
+Substantiv;der;Büstenhalter;;grudnjak;/
+Substantiv;das;Kleid;;haljina;/
+Substantiv;das;Nachthemd;;spavaćica;/
+Substantiv;der;Rock;;suknja;/
+Substantiv;das;Hemd;;košulja;/
+Substantiv;die;Krawatte;;kravata;/
+Substantiv;der;Herrenanzug;;muško odijelo;/
+Substantiv;die;Weste;;prsluk;/
+Substantiv;der;Sakko;;jakna;/
+Substantiv;die;Halskette;;lančić;/
+Substantiv;das;Armband;;narukvica;/
+Substantiv;der;Ohrring;;naušnica;/
+Substantiv;das;Halsband;"<-(e)s; Halsbänder>";ovratnik;/
+Substantiv;der;Ring;;prsten;/
+Substantiv;der;Trauring;;vjenčani prsten;/
+Substantiv;das;Heft;;bilježnica;/
+Substantiv;das;Buch;;knjiga;/
+Substantiv;die;Kreide;;kreda;/
+Substantiv;der;Bleistift;;olovka;/
+Substantiv;die;Grundschule;;osnovna škola;/
+Substantiv;die;Klasse;;razred;/
+Substantiv;der;Tafelschwamm;;spužva za ploču;/
+Substantiv;die;Tafel;;školska ploča;/
+Substantiv;das;Schulfach;;školski predmet;/
+Substantiv;die;Schülerin;;učenica;/
+Substantiv;der;Schüler;;učenik;/
+Substantiv;das;Klassenzimmer;;učionica;/
+Substantiv;der;Lehrer;;učitelj;/
+Substantiv;die;Lehrerin;;učiteljica;/
+Substantiv;das;Gymnasium;;gimnazija;/
+Substantiv;das;Arbitur;;matura;/
+Substantiv;der;Arbiturient;;maturant;/
+Substantiv;die;Mittelschule;;srednja škola;/
+Substantiv;die;Berufsschule;;strukovna škola;/
+Substantiv;die;Fakultät;"<Fakultät; -en>";fakultet;/
+Substantiv;die;Prüfung;;ispit;/
+Substantiv;die;Vorlesung;;predavanje;/
+Substantiv;der;Hörsaal;;predavaonica;/
+Substantiv;der;Student;;student;/
+Substantiv;die;Studentin;;studentica;/
+Substantiv;die;Universität;;sveučilište;/
+Substantiv;der;Direktor;;direktor;/
+Substantiv;der;Arbeitstisch;;radni stol;/
+Substantiv;der;Sachbearbeiter;;referent;/
+Substantiv;der;Beamte;;državni službenik;/
+Substantiv;die;Beamtin;;državna službenica;/
+Substantiv;der;Kunde;;klijent;/
+Substantiv;der;Chef;;šef;/
+Substantiv;der;Leiter;;direktor;/
+Substantiv;die;Sekretärin;;tajnica;/
+Substantiv;der;Urlaub;;odmor;/
+Substantiv;die;Kündigung;;otkaz;/
+Substantiv;das;Gehalt;;plaća;/
+Substantiv;die;Arbeit;;posao;/
+Substantiv;die;Geschäftssitzung;;poslovni sastanak;/
+Substantiv;die;Geschäftsreise;;poslovni put;/
+Substantiv;der;Bankier;;bankar;/
+Substantiv;die;Krankenschwester;;bolničarka;/
+Substantiv;die;Hausfrau;;domaćica;/
+Substantiv;der;Elektriker;;električar;/
+Substantiv;der;Friseur;;frizer;/
+Substantiv;der;Musiker;;glazbenik;/
+Substantiv;der;Schauspieler;;glumac;/
+Substantiv;der;Ingenieur;;inženjer;/
+Substantiv;der;Schneider;;krojač;/
+Substantiv;der;Koch;;kuhar;/
+Substantiv;der;Arzt;;liječnik;/
+Substantiv;der;Mechaniker;;mehaničar;/
+Substantiv;der;Fleischer;;mesar;/
+Substantiv;der;Lehrer;;učitelj;/
+Substantiv;der;Journalist;;novinar;/
+Substantiv;der;Rechtsanwalt;;odvjetnik;/
+Substantiv;der;Sänger;;pjevač;/
+Substantiv;der;Schuhmacher;;postolar;/
+Substantiv;der;Jurist;;pravnik;/
+Substantiv;der;Arbeiter;;radnik;/
+Substantiv;der;Maler;;slikar;/
+Substantiv;der;Tischler;;stolar;/
+Substantiv;der;Uhrmacher;;urar;/
+Substantiv;der;Wasserinstallateur;;vodoinstalater;/
+Substantiv;der;Zahnarzt;;stomatolog;/
+Substantiv;der;Gott;;Bog;/
+Substantiv;die;Bibel;;Biblija;/
+Substantiv;der;Bischof;;biskup;/
+Substantiv;die;Beichte;;ispovijed;/
+Substantiv;das;Kreuz;;križ;/
+Substantiv;die;Taufe;;krštenje;/
+Substantiv;die;Messe;;liturgija;/
+Substantiv;das;Gebet;;molitva;/
+Substantiv;der;Altar;;oltar;/
+Substantiv;der;Priester;;svećenik;/
+Substantiv;die;Firmung;;krizma;/
+Substantiv;die;Kommunion;;pričest;/
+Substantiv;der;Heilige;;svetac;/
+Substantiv;die;Heilige Schrift;;Sveto pismo;/
+Substantiv;der;Glaube;;vjera;/
+Substantiv;der;Gläubiger;;vjernik;/
+Substantiv;die;Religion;;religija;/
+Substantiv;die;Bank;;banka;/
+Substantiv;das;Krankenhaus;;bolnica;/
+Substantiv;die;Innenstadt;;centar grada;/
+Substantiv;der;Kindergarten;;dječji vrtić;/
+Substantiv;der;Friedhof;;groblje;/
+Substantiv;das;Hotel;;hotel;/
+Substantiv;der;Stadtplan;;plan grada;/
+Substantiv;die;Buchhandlung;;knjižara;/
+Substantiv;die;Bibliothek;;knjižnica;/
+Substantiv;die;Apotheke;;ljekarna;/
+Substantiv;die;Fleischerei;;mesnica;/
+Substantiv;die;Brücke;;most;/
+Substantiv;der;Park;;park;/
+Substantiv;die;Bäckerei;;pekara;/
+Substantiv;die;Vorstadt;;predgrađe;/
+Substantiv;das;Verkaufszentrum;;prodajni centar;/
+Substantiv;das;Geschäft;;prodavaonica;/
+Substantiv;der;Fischmarkt;;riblja tržnica;/
+Substantiv;das;Kaufhaus;;robna kuća;/
+Substantiv;der;Kiosk;;kiosk;/
+Substantiv;der;Platz;;trg;/
+Substantiv;der;Marktplatz;;tržnica;/
+Substantiv;die;Fabrik;;tvornica;/
+Substantiv;die;Straße;;ulica;/
+Substantiv;die;Kasse;;blagajna;/
+Substantiv;der;Kassierrer;;blagajnik;/
+Substantiv;der;Börsenmakler;;burzovni posrednik;/
+Substantiv;der;Scheck;;bankovni ček;/
+Substantiv;die;Überweisung;;doznaka;/
+Substantiv;das;Bargeld;;gotovina;/
+Substantiv;die;Auszahlung;;isplata;/
+Substantiv;die;Münze;;kovanica;/
+Substantiv;der;Wechsel;;mjenica;/
+Substantiv;der;Geldwechsel;;mjenjačnica;/
+Substantiv;die;Währung;;valuta;/
+Substantiv;das;Geld;;novac;/
+Substantiv;der;Geldschein;;novčanica;/
+Substantiv;die;Zahlung;;plaćanje;/
+Substantiv;das;Wechselgeld;;sitniš;/
+Substantiv;das;Kleingeld;;sitan novac;/
+Substantiv;das;Sparbuch;;štedna knjižica;/
+Substantiv;das;Sparkonto;;štedni račun;/
+Substantiv;die;Kursliste;;tečajna lista;/
+Substantiv;das;laufendes Konto;;tekući račun;/
+Substantiv;der;Tresorraum;;trezor;/
+Substantiv;die;Einzahlung;;uplata;/
+Substantiv;die;Wertpapiere;;vrijednosni papiri;/
+Substantiv;das;Appartement;;apartman;/
+Substantiv;der;Hotelgast;;gost hotela;/
+Substantiv;das;Hotelzimmer;;hotelska soba;/
+Substantiv;das;Zweibettzimmer;;dvokrevetna soba;/
+Substantiv;das;Einbettzimmer;;jednokrevetna soba;/
+Substantiv;die;Hotelrechnung;;hotelski račun;/
+Substantiv;der;Speisesaal;;blagovaonica;/
+Substantiv;der;Zimmerschlüssel;;ključ od sobe;/
+Substantiv;das;Bad;;kupaonica;/
+Substantiv;der;Hausdiener;;nosač prtljage;/
+Substantiv;die;Abmeldung;;odjava;/
+Substantiv;die;Hotelhalle;;predvorje hotela;/
+Substantiv;die;Rezeption;;recepcija;/
+Substantiv;der;Empfangschef;;recepcionar;/
+Substantiv;der;Geselschaftsaal;;svečana dvorana;/
+Substantiv;der;Portier;;portir;/
+Substantiv;die;Preisliste;;cjenik;/
+Substantiv;der;Gast;;gost;/
+Substantiv;die;Speisekarte;;jelovnik ;/
+Substantiv;der;Kellner;;konobar;/
+Substantiv;die;Kellnerin;;konobarica;/
+Substantiv;die;Rechnung;;račun;/
+Substantiv;das;Frühstück;;doručak;/
+Substantiv;das;Mittagessen;;ručak;/
+Substantiv;das;Abendessen;;večera;/
+Substantiv;das;Dessert;;desert;/
+Substantiv;das;Hauptgericht;;glavno jelo;/
+Substantiv;die;Suppe;;juha;/
+Substantiv;der;Kuchen;;kolač;/
+Substantiv;das;Fleischgericht;;jelo od mesa;/
+Substantiv;die;Vorspeise;;predjelo;/
+Substantiv;die;Speisezutat;;prilog;/
+Substantiv;das;Fischgericht;;riblje jelo;/
+Substantiv;der;Salat;;zelena salata;/
+Substantiv;das;Eis;;sladoled;/
+Substantiv;das;Rindfleisch;;govedina;/
+Substantiv;das;Lammfleisch;;janjetina;/
+Substantiv;das;Hammelfleisch;;ovčetina;/
+Substantiv;das;Hühnerfleisch;;pileće meso;/
+Substantiv;das;Putenfleisch;;pureće meso;/
+Substantiv;das;Rauchfleisch;;dimljeno meso;/
+Substantiv;das;Schweinefleisch;;svinjetina;/
+Substantiv;das;Kalbfleisch;;teletina;/
+Substantiv;das;Wasser;;voda;/
+Substantiv;das;Mineralwasser;;mineralna voda;/
+Substantiv;die;Limonade;;limunada;/
+Substantiv;der;Fruchtsaft;;voćni sok;/
+Substantiv;der;Likör;;liker;/
+Substantiv;das;Bier;;pivo;/
+Substantiv;der;Sekt;;pjenušavo vino;/
+Substantiv;der;Schnaps;;rakija;/
+Substantiv;der;Wein;;vino;/
+Substantiv;der;Weißwein;;bijelo vino;/
+Substantiv;der;Rotwein;;crno vino;/
+Substantiv;der;Teller;;tanjur;/
+Substantiv;der;Löffel;;žlica;/
+Substantiv;das;Messer;;nož;/
+Substantiv;die;Gabel;;vilica;/
+Substantiv;das;Glas;;čaša;/
+Substantiv;die;Tasse;;šalica;/
+Substantiv;die;Praxis;;ambulanta opće prakse;/
+Substantiv;der;Warterraum;;čekaonica;/
+Substantiv;das;Heftpflaster;;flaster;/
+Substantiv;die;Injektion;;injekcija;/
+Substantiv;das;Labor;;laboratorij;/
+Substantiv;das;Medikament;;lijek;/
+Substantiv;die;Salbe;;krema;/
+Substantiv;der;Patient;;pacijent;/
+Substantiv;der;Blutdruckmesser;;tlakomjer;/
+Substantiv;das;Thermometer;;toplomjer;/
+Substantiv;der;Verband;;zavoj;/
+Substantiv;die;Krankenschein;;uputnica;/
+Substantiv;der;Rettungswagen;;kola hitne pomoći;/
+Substantiv;der;Facharzt;;liječnik specijalist;/
+Substantiv;der;Operationsaal;;operacijska sala;/
+Substantiv;die;Entbindungsklinik;;rodilište;/
+Substantiv;der;Rettungsdienst;;služba hitne pomoći;/
+Substantiv;der;Schmerz;;bol;/
+Substantiv;die;Kopfschmerzen;;glavobolja;/
+Substantiv;die;Halsschmerzen;;grlobolja;/
+Substantiv;das;Fieber;;vrućica;/
+Substantiv;der;Husten;;kašalj;/
+Substantiv;die;Rückenschmerzen;;bol u leđima;/
+Substantiv;die;Blutung;;krvarenje;/
+Substantiv;die;Verdauungsstörung;;probavne smetnje;/
+Substantiv;die;Übelkeit;;mučnina;/
+Substantiv;die;Nervosität;;nervoza;/
+Substantiv;die;Ohnmacht;;nesvijestica;/
+Substantiv;die;Brandwunde;;opeklina;/
+Substantiv;die;Schwellung;;oteklina;/
+Substantiv;die;Vergiftung;;trovanje;/
+Substantiv;die;Verletzung;;ozljeda;/
+Substantiv;die;Erkältung;;prehlada;/
+Substantiv;der;Bruch;;prijelom;/
+Substantiv;der;Krebs;;rak;/
+Substantiv;die;Wunde;;rana;/
+Substantiv;der;Sonnenstich;;sunčanica;/
+Substantiv;die;Zuckerkrankheit;;dijabetes;/
+Substantiv;die;Lungentzündung;;upala pluća;/
+Substantiv;die;Blinddarmentzündung;;upala slijepog crijeva;/
+Substantiv;die;Entzündung;;upala;/
+Substantiv;der;Schwindel;;vrtoglavica;/
+Substantiv;die;Zahnschmerzen;;zubobolja;/
+Substantiv;die;Anschrift;;adresa;/
+Substantiv;das;Telegramm;;telegram;/
+Substantiv;die;Postkarte;;razglednica;/
+Substantiv;die;Briefmarke;;poštanska marka;/
+Substantiv;der;Briefumschlag;;omotnica;/
+Substantiv;das;Paket;;paket;/
+Substantiv;der;Brief;;pismo;/
+Substantiv;der;Briefträger;;poštar;/
+Substantiv;die;Postleitzahl;;poštanski broj;/
+Substantiv;das;Postamt;;pošta;/
+Substantiv;der;Empfänger;;primatelj;/
+Substantiv;die;Ansichtkarte;;razglednica;/
+Substantiv;die;Telefonzelle;;telefonska govornica;/
+Substantiv;die;Telefonnumer;;broj telefona;/
+Substantiv;das;Telefonbuch;;telefonski imenik;/
+Substantiv;der;Bus;;autobus;/
+Substantiv;das;Auto;;automobil;/
+Substantiv;das;Fahrrad;;bicikl;/
+Substantiv;das;Schiff;;brod;/
+Substantiv;der;Hubschrauber;;helikopter;/
+Substantiv;der;Lastkraftwagen;;kamion;/
+Substantiv;das;Motorrad;;motocikl;/
+Substantiv;die;U-Bahn;;metro;/
+Substantiv;die;Autofähre;;automobilski trajekt;/
+Substantiv;die;Straßenbahn;;tramvaj;/
+Substantiv;der;Zug;;vlak;/
+Substantiv;das;Flugzeug;;zrakoplov;/
+Substantiv;die;Autobahn;;autocesta;/
+Substantiv;die;Tankstelle;;benzinska pumpa;/
+Substantiv;die;Hauptstraße;;glavna ulica;/
+Substantiv;die;Nebenstraße;;sporedna ulica;/
+Substantiv;der;Zebrastreifen;;pješački prijelaz;/
+Substantiv;der;Fußgänger;;pješak;/
+Substantiv;die;Kreuzung;;raskrižje;/
+Substantiv;die;Ampel;;semafor;/
+Substantiv;die;Kraftfahrzeugwerkstatt;;radionica za motorna vozila;/
+Substantiv;der;Fahrer;;vozač;/
+Substantiv;der;Führerschein;;vozačka dozvola;/
+Substantiv;der;Zoll;;carina;/
+Substantiv;der;Ausgang;;izlaz ;/
+Substantiv;die;Passkontrole;;kontrola putovnica;/
+Substantiv;die;Piste;;pista;/
+Substantiv;die;Gepäckausgabe;;preuzimanje prtljage;/
+Substantiv;der;Flugplan;;raspored letova;/
+Substantiv;die;Landung;;slijetanje;/
+Substantiv;die;Bordkarte;;ulazna karta;/
+Substantiv;das;Boot;;čamac;/
+Substantiv;die;Kajüte;;kabina;/
+Substantiv;der;Käpiten;;kapetan;/
+Substantiv;der;Hafen;;luka;/
+Substantiv;der;Matrose;;mornar;/
+Substantiv;das;Deck;;paluba;/
+Substantiv;die;Schiffmannschaft;;brodska posada;/
+Substantiv;die;Anlagestelle;;pristanište;/
+Substantiv;das;Passagierschiff;;putnički brod;/
+Substantiv;der;Passagier;;putnik;/
+Substantiv;der;Frachtschiff;;teretni brod;/
+Substantiv;der;Fahrkartenschalter;;šalter za prodaju karata;/
+Substantiv;die;Ankunft;;dolazak;/
+Substantiv;der;Liegewagen;;vagon za ležanje;/
+Substantiv;der;Schlafwagen;;vagon za spavanje;/
+Substantiv;der;Bahnhof;;željeznička stanica;/
+Substantiv;der;Schaffner;;kondukter;/
+Substantiv;das;Abteil;;kupe;/
+Substantiv;die;Abfahrt;;odlazak;/
+Substantiv;der;Bahnsteig;;peron;/
+Substantiv;die;Rückfahrkarte;;povratna karta;/
+Substantiv;die;Platzkarte;;rezervacija mjesta;/
+Substantiv;der;Sitzplatz;;sjedalo;/
+Substantiv;die;Batterie;;baterija;/
+Substantiv;das;Schloß;;brava;/
+Substantiv;das;Fahrgestell;;šasija;/
+Substantiv;der;Reifen;;auto guma;/
+Substantiv;die;Bremse;;kočnica;/
+Substantiv;der;Blinker;;žmigavac;/
+Substantiv;das;Reserverad;;rezervni kotač;/
+Substantiv;der;Scheinwerfer;;glavno svjetlo;/
+Substantiv;das;Lenkrad;;volan;/
+Substantiv;der;Fahrzeugsschein;;prometna dozvola;/
+Substantiv;das;Nummernschild;;registarske tablice;/
+Substantiv;die;Wiese;;livada;/
+Substantiv;das;Feld;;polje;/
+Substantiv;der;Gemüsegarten;;povrtnjak;/
+Substantiv;der;Bauer;;seljak;/
+Substantiv;das;Heu;;sijeno;/
+Substantiv;das;Gras;;trava;/
+Substantiv;der;Weinberg;;vinograd;/
+Substantiv;der;Obstgarten;;voćnjak;/
+Substantiv;die;Ernte;;žetva;/
+Substantiv;das;Getriede;;žitarice;/
+Substantiv;das;Meer;;more;/
+Substantiv;die;Küste;;obala;/
+Substantiv;die;Insel;;otok;/
+Substantiv;die;Halbinsel;;poluotok;/
+Substantiv;der;Strand;;plaža;/
+Substantiv;die;Ebbe;;oseka;/
+Substantiv;die;Flut;;plima;/
+Substantiv;die;Bucht;;zaljev;/
+Substantiv;die;Welle;;val;/
+Substantiv;die;Badehose;;kupaće gaće;/
+Substantiv;der;Liegestuhl;;ležaljka;/
+Substantiv;das;Badetuch;;ručnik za kupanje;/
+Substantiv;der;Sonnenschirm;;suncobran;/
+Substantiv;der;Hügel;;brdo;/
+Substantiv;das;Tal;;dolina;/
+Substantiv;der;See;;jezero;/
+Substantiv;das;Eislaufen;;klizanje na ledu;/
+Substantiv;der;Berghang;;padina planine;/
+Substantiv;das;Gebirge;;planina;/
+Substantiv;der;Bersteiger;;planinar;/
+Substantiv;die;Berghütte;;planinska koliba;/
+Substantiv;der;Gipfel;;planinski vrh;/
+Substantiv;das;Schlittenfahren;;sanjkanje;/
+Substantiv;der;Schlitten;;saonice;/
+Substantiv;das;Skilaufen;;skijanje;/
+Substantiv;der;Skianzug;;skijaško odijelo;/
+Substantiv;der;Wald;;šuma;/
+Substantiv;der;Skilift;;žičara za skijaše;/
+Substantiv;die;Blüte;;cvijet;/
+Substantiv;der;Baumstamm;;deblo drveta;/
+Substantiv;der;Ast;;grana;/
+Substantiv;die;Wurzel;;korijen;/
+Substantiv;die;Baumkrone;;krošnja drveta;/
+Substantiv;das;Blat;;list;/
+Substantiv;die;Frucht;;plod;/
+Substantiv;die;Kiefer;;bor;/
+Substantiv;die;Eiche;;hrast;/
+Substantiv;der;Tannenbaum;;jela;/
+Substantiv;der;Blumenstrauß;;buket cvijeća;/
+Substantiv;der;Blumengarten;;cvjetnjak;/
+Substantiv;die;Gans;;guska;/
+Substantiv;das;Huhn;;kokoš;/
+Substantiv;das;Pferd;;konj;/
+Substantiv;die;Ziege;;koza;/
+Substantiv;die;Kuh;;krava;/
+Substantiv;die;Katze;;mačka;/
+Substantiv;der;Esel;;magarac;/
+Substantiv;das;Schaf;;ovca;/
+Substantiv;der;Hund;;pas;/
+Substantiv;die;Ente;;patka;/
+Substantiv;der;Hahn;;pijetao;/
+Substantiv;das;Schwein;;svinja;/
+Substantiv;die;Stechmücke;;komarac;/
+Substantiv;der;Schmetterling;;leptir;/
+Substantiv;die;Fliege;;muha;/
+Substantiv;die;Spinne;;pauk;/
+Substantiv;die;Biene;;pčela;/
+Substantiv;die;Möwe;;galeb;/
+Substantiv;die;Taube;;golub;/
+Substantiv;der;Habicht;;jastreb;/
+Substantiv;die;Schwalbe;;lastavica;/
+Substantiv;der;Adler;;orao;/
+Substantiv;der;Storch;;roda;/
+Substantiv;die;Falke;;sokol;/
+Substantiv;die;Eule;;sova;/
+Substantiv;der;Sperling;;vrabac;/
+Substantiv;der;Hirsch;;jelen;/
+Substantiv;der;Löwe;;lav;/
+Substantiv;der;Fuchs;;lisica;/
+Substantiv;der;Affe;;majmun;/
+Substantiv;der;Bär;;medvjed;/
+Substantiv;das;Reh;;srna;/
+Substantiv;der;Tiger;;tigar;/
+Substantiv;das;Eichhörnchen;;vjeverica;/
+Substantiv;der;Wolf;;vuk;/
+Substantiv;der;Hase;;zec;/
+Substantiv;der;Kabeljau;;bakalar;/
+Substantiv;die;Miesmuschel;;dagnja;/
+Substantiv;der;Octopus;;hobotnica;/
+Substantiv;die;Languste;;jastog;/
+Substantiv;die;Auster;;kamenica;/
+Substantiv;der;Kalmar;;lignje;/
+Substantiv;der;Tintenfisch;;sipa;/
+Substantiv;das;Kamel;;deva;/
+Substantiv;der;Walfisch;;kit;/
+Substantiv;die;Schildkröte;;kornjača;/
+Substantiv;das;Krokodil;;krokodil;/
+Substantiv;die;Maus;;miš;/
+Substantiv;der;Haifisch;;morski pas;/
+Substantiv;die;Schnecke;;puž;/
+Substantiv;der;Elefant;;slon;/
+Substantiv;die;Schlange;;zmija;/
+Substantiv;der;Frosch;;žaba;/
+Substantiv;der;Regen;"<-s; Regen>";kiša;/
+Substantiv;der;Nebel;"<-s; Nebel>";magla;/
+Substantiv;der;Schauer;"<-s; Schauer>";pljusak;/
+Substantiv;der;Tau;<-(e)s>;rosa;/
+Substantiv;der;Schnee;<-s>;snijeg;/
+Substantiv;der;Hagel;<-s>;tuča;/
+Substantiv;das;Theater;;kazalište;/
+Substantiv;die;Vorstellung;;predstava;/
+Substantiv;das;Ballet;;balet;/
+Substantiv;das;Drama;;drama;/
+Substantiv;die;Oper;;opera;/
+Substantiv;der;Zuschauerraum;;gledalište;/
+Substantiv;der;Schauspieler;;glumac;/
+Substantiv;die;Schauspielerin;;glumica;/
+Substantiv;die;Skulptur;;skulptura;/
+Substantiv;die;Statue;;kip;/
+Substantiv;der;Bildhauer;;kipar;/
+Substantiv;der;Maler;;slikar;/
+Substantiv;das;Gemälde;;umjetnička slika;/
+Substantiv;das;Musikinstrument;;glazbeni instrument;/
+Substantiv;die;Note;;nota;/
+Substantiv;das;Lied;;pjesma;/
+Substantiv;der;Sänger;;pjevač;/
+Substantiv;die;Sängerin;;pjevačica;/
+Substantiv;die;Leichtathletik;;atletika;/
+Substantiv;der;Radsport;;biciklizam;/
+Substantiv;das;Segelnd;;jedrenje;/
+Substantiv;das;Korbball;"<-(e)s; Korbbälle>";košarka;/
+Substantiv;der;Fußball;;nogomet;/
+Substantiv;das;Schwimmen;;plivanje;/
+Substantiv;der;Handball;;rukomet;/
+Substantiv;das;Tennis;;tenis;/
+Substantiv;der;Wasserball;;vaterpolo;/
+Substantiv;der;Schwimmbad;;bazen;/
+Substantiv;das;Segelboot;;jedrilica;/
+Substantiv;der;Ball;;lopta;/
+Substantiv;der;Anhänger;;navijač;/
+Substantiv;der;Fußballplatz;;nogometno igralište;/
+Substantiv;der;Schläger;;reket;/
+Substantiv;der;Richter;;sudac;/
+Substantiv;der;Trainer;;trener;/
+Adjektiv;;weiß;;bijela;/
+Adjektiv;;schwarz;;crna;/
+Adjektiv;;rot;;crvena;/
+Adjektiv;;violett;;ljubičasta;/
+Adjektiv;;orange;;narančasta;/
+Adjektiv;;blau;;plava;/
+Adjektiv;;rosa;;ružičasta;/
+Adjektiv;;grau;;siva;/
+Adjektiv;;braun;;smeđa;/
+Adjektiv;;grün;;zelena;/
+Adjektiv;;gelb;;žuta;/
+Adjektiv;;helle Farben;;svijetle boje;/
+Adjektiv;;dunkle Farben;;tamne boje;/
+Adjektiv;;grelle Farben;;kričave boje;/
+Substantiv;der;Norden;;sjever;/
+Substantiv;der;Süden;;jug;/
+Substantiv;der;Osten;;istok;/
+Substantiv;der;Westen;;zapad;/
+Substantiv;der;Frühling;;proljeće;/
+Substantiv;der;Sommer;;ljeto;/
+Substantiv;der;Herbst;;jesen;/
+Substantiv;der;Winter;;zima;/
+Substantiv;der;Montag;;ponedjeljak;/
+Substantiv;der;Dienstag;;utorak;/
+Substantiv;der;Mittwoch;;srijeda;/
+Substantiv;der;Donnerstag;;četvrtak;/
+Substantiv;der;Freitag;;petak;/
+Substantiv;der;Samstag;;subota;/
+Substantiv;der;Sonntag;;nedjelja;/
+Substantiv;der;Januar;;siječanj;/
+Substantiv;der;Februar;;veljača;/
+Substantiv;der;März;;ožujak;/
+Substantiv;der;April;;travanj;/
+Substantiv;der;Mai;;svibanj;/
+Substantiv;der;Juni;;lipanj;/
+Substantiv;der;Juli;;srpanj;/
+Substantiv;der;August;;kolovoz;/
+Substantiv;der;September;;rujan;/
+Substantiv;der;Oktober;;listopad;/
+Substantiv;der;November;;studeni;/
+Substantiv;der;Dezember;;prosinac;/
+Substantiv;die;Weltraumforschung;;istraživanje svemira;/
+Substantiv;der;Mond;;Mjesec;/
+Substantiv;der;Mondschein;;mjesečina;/
+Substantiv;der;Himmelskörper;;nebesko tijelo;/
+Substantiv;der;Himmel;;nebo;/
+Substantiv;der;Planet;;planet;/
+Substantiv;die;Sonne;;sunce;/
+Substantiv;der;Weltraum;;svemir;/
+Substantiv;das;Weltraumschiff;;svemirski brod;/
+Substantiv;die;Erde;;Zemlja;/
+Substantiv;der;Stern;;zvijezda;/
+Substantiv;der;Ehrgeiz;;ambicija;/
+Substantiv;die;Ehre;;čast;/
+Substantiv;das;Wunder;;čudo;/
+Substantiv;der;Mut;;hrabrost;/
+Substantiv;die;Wahrheit;;istina;/
+Substantiv;die;Lüge;;laž;/
+Substantiv;die;Schönheit;;ljepota;/
+Substantiv;die;Eifersucht;;ljubomora;/
+Substantiv;der;Frieden;;mir;/
+Substantiv;die;Meinung;;mišljenje;/
+Substantiv;der;Haß;;mržnja;/
+Substantiv;die;Hoffnung;;nada;/
+Substantiv;das;Versprechen;;obećanje;/
+Substantiv;das;Gefühl;;osjećaj;/
+Substantiv;die;Freude;;radost;/
+Substantiv;der;Grund;;razlog;/
+Substantiv;das;Gewissen;;savjest;/
+Substantiv;die;Erinnerung;;sjećanje;/
+Substantiv;der;Ruhm;;slava;/
+Substantiv;die;Freiheit;;sloboda;/
+Substantiv;der;Tod;;smrt;/
+Substantiv;die;Scham;;sram;/
+Substantiv;das;Glück;;sreća;/
+Substantiv;die;Angst;;strah;/
+Substantiv;die;Trauer;;tuga;/
+Substantiv;die;Aufregung;;uzbuđenje;/
+Substantiv;der;Wille;;volja;/
+Substantiv;das;Wissen;;znanje;/
+Substantiv;der;Wunsch;;želja;/
+Substantiv;das;Leben;;život;/
+Adjektiv;;jung;;mlad;/
+Adjektiv;;alt;;star;/
+Adjektiv;;groß;;velik;/
+Adjektiv;;klein;;mali;/
+Adjektiv;;mager;;mršavi;/
+Adjektiv;;dick;;debeo;/
+Adjektiv;;stark;;snažan;/
+Adjektiv;;schwach;;slab;/
+Adjektiv;;blond;;plavokos;/
+Adjektiv;;dunkelhaarig;;tamnokos;/
+Adjektiv;;hübsch;;zgodan;/
+Adjektiv;;hässlich;;ružan;/
+Adjektiv;;rosig;;rumen;/
+Adjektiv;;blaß;;blijed;/
+Adjektiv;;gut;;dobar;/
+Adjektiv;;schlecht;;loš;/
+Adjektiv;;fleißig;;marljiv;/
+Adjektiv;;faul;;lijen;/
+Adjektiv;;langweilig;;dosadan;/
+Adjektiv;;interessant;;zanimljiv;/
+Adjektiv;;freundlich;;prijateljski;/
+Adjektiv;;zart;;nježan;/
+Adjektiv;;geizig;;škrt;/
+Adjektiv;;gebildet;;obrazovan;/
+Adjektiv;;ungebildet;;neobrazovan;/
+Adjektiv;;höflich;;pristojan;/
+Adjektiv;;unhöflich;;nepristojan;/
+Adjektiv;;treu;;vjeran;/
+Adjektiv;;untreu;;nevjeran;/
+Adjektiv;;aufmerksam;;pažljiv;/
+Adjektiv;;unaufmerksam;;nepažljiv;/
+Adjektiv;;verläßlich;;pouzdan;/
+Adjektiv;;unverläßlich;;nepouzdan;/
+Adjektiv;;ehrlich;;pošten;/
+Adjektiv;;unehrlich;;nepošten;/
+Adjektiv;;entschlossen;;odlučan;/
+Adjektiv;;unentschlossen;;neodlučan;/
+Adjektiv;;gesund;;zdrav;/
+Adjektiv;;krank;;bolestan;/
+Adjektiv;;am Leben;;živ;/
+Adjektiv;;tot;;mrtav;/
+Adjektiv;;müde;;umoran;/
+Adjektiv;;ausgeruht;;odmoran;/
+Adjektiv;;traurig;;tužan;/
+Adjektiv;;lustig;;veseo;/
+Adjektiv;;schläfrig;;pospan;/
+Adjektiv;;wach;;budan;/
+Adjektiv;;durstig;;žedan;/
+Adjektiv;;hungrig;;gladan;/
+Adjektiv;;satt;;sit;/
+Adjektiv;;verheiratet;;oženjen;/
+Adjektiv;;unverheiratet;;neoženjen;/
+Adjektiv;;geschieden;;rastavljen;/
+Adjektiv;;arm;;siromašan;/
+Adjektiv;;reich;;bogat;/
+Adjektiv;;glücklich;;sretan;/
+Adjektiv;;unglücklich;;nesretan;/
+Adjektiv;;schön;;lijep;/
+Adjektiv;;sonnig;;sunčan;/
+Adjektiv;;bewölkt;;oblačan;/
+Adjektiv;;neblig;;maglovit;/
+Adjektiv;;regnerisch;;kišovit;/
+Adjektiv;;windig;;vjetrovit;/
+Adjektiv;;warm;;topao;/
+Adjektiv;;kalt;;hladan;/
+Adjektiv;;heiß;;vruć;/
+Adjektiv;;salzig;;slan;/
+Adjektiv;;bitter;;gorak;/
+Adjektiv;;süß;;sladak;/
+Adjektiv;;gepfeffert;;popapren;/
+Adjektiv;;sauer;;kiseo;/
+Adjektiv;;scharf;;ljut;/
+Adjektiv;;lecker;;ukusan;/
+Verb;;wählen;ich wähle / ich wählte / ich habe gewählt;izabrati;/
+Verb;;verteidigen;ich verteidige / ich verteidigte / ich habe verteidigt;braniti;/
+Verb;;zählen;ich zähle / ich zählte / ich habe gezählt;brojati;/
+Verb;;warten;ich warte / ich wartete / ich habe gewartet;čekati;/
+Verb;;gratulieren;ich gratuliere / ich gratulierte / ich habe gratuliert;čestitati;/
+Verb;;machen;ich mache / ich machte / ich habe gemacht;napraviti;/
+Verb;;putzen;ich putze / ich putzte / ich habe geputzt;čistiti;/
+Verb;;berühren;ich berühre / ich berührte / ich habe berührt;dirati;/
+Verb;;atmen;ich atme / ich atmete / ich habe geatmet;disati;/
+Verb;;prüfen;ich prüfe / ich prüfte / ich habe geprüft;dokazati;/
+Verb;;erleben;ch erlebe / ich erlebte / ich habe erlebt;doživjeti;/
+Verb;;schulden;ich schulde / ich schuldete / ich habe geschuldet;dugovati;/
+Verb;;sich entschuldigen;ich entschuldige mich / ich entschuldigte mich / ich habe mich entschuldigt;ispričati se;/
+Verb;;mieten;ich miete / ich mietete / ich habe gemietet;iznajmiti;/
+Verb;;überraschen;ich überrasche / ich überraschte / ich habe überrascht;iznenaditi;/
+Verb;;kosten;es kostet / es kostete / es hat gekostet;koštati;/
+Verb;;kochen;ich koche / ich kochte / ich habe gekocht;kuhati;/
+Verb;;kaufen;ich kaufe / ich kaufte / ich habe gekauft;kupiti;/
+Verb;;wechseln;ich wechsle / ich wechselte / ich habe gewechselt;promijeniti;/
+Verb;;hoffen;ich hoffe / ich hoffte / ich habe gehofft;nadati se;/
+Verb;;beabsichtigen;ich beabsichtige / ich beabsichtigte / ich habe beabsichtigt;namjeravati;/
+Verb;;fortsetzen;ich setze fort / ich setzte fort / ich habe fortgesetzt;nastaviti;/
+Verb;;benachrichtigen;ich benachrichtige / ich benachrichtigte / ich habe benachrichtigt;obavijestiti;/
+Verb;;erklären;ich erkläre / ich erklärte / ich habe erklärt;objasniti;/
+Verb;;erwarten;ich erwarte / ich erwartete / ich habe erwartet;očekivati;/
+Verb;;antworten;ich antworte / ich antwortete / ich habe geantwortet;odgovoriti;/
+Verb;;kündigen;ich kündige / ich kündigte / ich habe gekündigt;otkazati;/
+Verb;;öffnen;ich öffne / ich öffnete / ich habe geöffnet;otvoriti;/
+Verb;;heiraten;ich heirate / ich heiratete / ich habe geheiratet;oženiti se;/
+Verb;;fragen;ich frage / ich fragte / ich habe gefragt;pitati;/
+Verb;;weinen;ich weine / ich weinte / ich habe geweint;plakati;/
+Verb;;bezahlen;ich bezahle / ich bezahlte / ich habe bezahlt;platiti;/
+Verb;;tanzen;ich tanze / ich tanzte / ich habe getanzt;plesati;/
+Verb;;segeln;ich segle / ich segelte / ich bin gesegelt;ploviti;/
+Verb;;zeigen;ich zeige / ich zeigte / ich habe gezeigt;pokazati;/
+Verb;;versuchen;ich versuche / ich versuchte / ich habe versucht;pokušati;/
+Verb;;küssen;ich küsse / ich küsste / ich habe geküsst;poljubiti;/
+Verb;;wiederholen;ich wiederhole / ich wiederholte / ich habe wiederholt;ponoviti;/
+Verb;;besuchen;ich besuche / ich besuchte / ich habe besucht;posjetiti;/
+Verb;;bestätigen;ich bestätige / ich bestätigte / ich habe bestätigt;potvrditi;/
+Verb;;begrüßen;ich begrüße / ich begrüßte / ich habe begrüßt;pozdraviti;/
+Verb;;sich beeilen;ich beeile mich / ich beeilte mich / ich habe mich beeilt;požuriti;/
+Verb;;gehören;ich gehöre / ich gehörte / ich habe gehört;pripadati;/
+Verb;;erzeugen;ich erzeuge / ich erzeugte / ich habe erzeugt;proizvoditi;/
+Verb;;arbeiten;ich arbeite / ich arbeitete / ich habe gearbeitet;raditi;/
+Verb;;sagen;ich sage / ich sagte / ich habe gesagt;reći;/
+Verb;;sich setzen;ich setze mich / ich setzte mich / ich habe mich gesetzt;sjesti;/
+Verb;;sich erinnern;ich erinnere mich / ich erinnerte mich / ich habe mich erinnert;sjetiti se;/
+Verb;;hören;ich höre / ich hörte / ich habe gehört;slušati;/
+Verb;;lachen;ich lache / ich lachte / ich habe gelacht;smijati se;/
+Verb;;wohnen;ich wohne / ich wohnte / ich habe gewohnt;stanovati;/
+Verb;;schützen;ich schütze / ich schützte / ich habe geschützt;štititi;/
+Verb;;dauern;es dauert / es dauerte / es hat gedauert;trajati;/
+Verb;;suchen;ich suche / ich suchte / ich habe gesucht;tražiti;/
+Verb;;töten;ich töte / ich tötete / ich habe getötet;ubiti;/
+Verb;;lernen;ich lerne / ich lernte / ich habe gelernt;učiti;/
+Verb;;benutzen;ich benutze / ich benutzte / ich habe benutzt;koristiti;/
+Verb;;einführen;ich führe ein / ich führte ein / ich habe eingeführt;uvoziti;/
+Verb;;glauben;ich glaube / ich glaubte / ich habe geglaubt;vjerovati;/
+Verb;;lieben;ich liebe / ich liebte / ich habe geliebt;voljeti;/
+Verb;;verlangen;ich verlange / ich verlangte / ich habe verlangt;zahtjevati;/
+Verb;;bemerken;ich bemerke / ich bemerkte / ich habe bemerkt;primijetiti;/
+Verb;;wünschen;ich wünsche / ich wünschte / ich habe gewünscht;željeti;/
+Verb;;leben;ich lebe / ich lebte / ich habe gelebt;živjeti;/
+Verb;;sein;ich bin / ich war / ich bin gewesen;biti;/
+Verb;;haben;ich habe / ich hatte / ich habe gehabt;imati;/
+Verb;;werden;ich werde / ich wurde / ich bin geworden;postati;/
+Verb;;können;ich kann / ich konnte / ich habe gekonnt;moći;/
+Verb;;machen;ich mache / ich machte / ich habe gemacht;raditi / praviti;/
+Verb;;müssen;ich muss / ich musste / ich habe gemusst;morati;/
+Verb;;sagen;ich sage / ich sagte / ich habe gesagt;reći;/
+Verb;;gehen;ich gehe / ich ging / ich bin gegangen;ići;/
+Verb;;geben;ich gebe / ich gab / ich habe gegeben;dati;/
+Verb;;wollen;ich will / ich wollte / ich habe gewollt;htjeti;/
+Verb;;kommen;ich komme / ich kam / ich bin gekommen;doći;/
+Verb;;sollen;ich solle / ich sollte / ich habe gesollt;trebati;/
+Verb;;sehen;iche sehe / ich sah / ich habe gesehen;vidjeti;/
+Verb;;mögen;ich mag / ich mochte / ich habe gemocht;sviđati;/
+Verb;;finden;ich finde / ich fand / ich habe gefunden;naći;/
+Verb;;wissen;ich weiß / ich wusste / ich habe gewusst;znati;/
+Verb;;glauben;ich glaube / ich glaubte / ich habe geglaubt;vjerovati;/
+Verb;;lernen;ich lerne / ich lernte / ich habe gelernt;učiti;/
+Verb;;dürfen;ich darf / ich durfte / ich habe gedurft;smjeti;/
+Verb;;denken;ich denke / ich dachte / ich habe gedacht;misliti;/
+Verb;;heißen;ich heiße / ich hieß / ich habe geheißen;zvati (se);/
+Verb;;sprechen;ich spreche / ich sprach / ich habe gesprochen;govoriti;/
+Verb;;tun;ich tue / ich tat / ich habe getan;obavljati;/
+Verb;;fahren;ich fahre / ich fuhr / ich bin gefahren;voziti;/
+Verb;;schreiben;ich schreibe / ich schrieb / ich habe geschrieben;pisati;/
+Verb;;lassen;ich lasse / ich ließ / ich habe gelassen;dati / pustiti / ostaviti;/
+Verb;;fragen;ich frage / ich fragte / ich habe gefragt;pitati;/
+Verb;;bekommen;ich bekomme / ich bekam / ich habe bekommen;dobiti;/
+Verb;;nehmen;ich nehme / ich nahm / ich habe genommen;uzeti / zauzeti;/
+Verb;;sich freuen;ich freue mich / ich freute mich / ich habe mich gefreut;radovati se;/
+Verb;;zeigen;ich zeige / ich zeigte / ich habe gezeigt;pokazati;/
+Verb;;essen;ich esse / ich aß / ich habe gegessen;jesti;/
+Verb;;arbeiten;ich arbeite / ich arbeitete / ich habe gearbeitet;raditi;/
+Verb;;stehen;ich stehe / ich stand / ich habe gestanden;stajati;/
+Verb;;bringen;ich bringe / ich brachte / ich habe gebracht;ponjeti;/
+Verb;;kennen;ich kenne / ich kannte / ich habe gekannt;znati;/
+Verb;;benutzen;ich benutze / ich benutzte / ich habe benutzt;iskoristiti / upogoniti;/
+Verb;;bleiben;ich bleibe / ich blieb / ich bin geblieben;ostati;/
+Verb;;leben;ich lebe / iche lebte / ich habe gelebt;živjeti;/
+Verb;;gucken;ich gucke / ich guckte / ich habe geguckt;pogledati;/
+Verb;;sich stellen;ich stelle mich / ich stellte mich / ich habe mich gestellt;predati se;/
+Verb;;hören;ich höre / ich hörte / ich habe gehört;čuti;/
+Verb;;spielen;ich spiele / ich spielte / ich habe gespielt;igrati / svirati;/
+Verb;;kaufen;ich kaufe / ich kaufte / ich habe gekauft;kupiti;/
+Verb;;passieren;Es passiert / es passierte / es ist passiert;dogoditi (se);/
+Verb;;verstehen;ich verstehe / iche verstand / ich habe verstanden;razumjeti;/
+Verb;;reden;ich rede / ich redete / ich habe geredet;pričati;/
+Verb;;schaffen;ich schaffe / ich schaffte / ich habe geschafft;stvoriti;/
+Verb;;halten;ich halte / ich hielt / ich habe gehalten;držati;/
+Verb;;trinken;ich trinke / ich trank / ich habe getrunken;piti;/
+Verb;;sich treffen;ich treffe mich / ich traf mich / ich habe mich getroffen;sresti se;/
+Verb;;lesen;ich lese / ich las / ich habe gelesen;čitati;/
+Verb;;nennen;ich nenne / ich nannte / ich habe genannt;imenovati;/
+Verb;;führen;ich führe / ich führte / ich habe geführt;voditi / upravljati;/
+Verb;;brauchen;ich brauche / ich brauchte / ich habe gebraucht;trebati (nešto);/
+Verb;;stimmen;ich stimme / ich stimmte / ich habe gestimmt;podesiti / naštimati;/
+Verb;;wohnen;ich wohne / ich wohnte / ich habe gewohnt;stanovati;/
+Verb;;helfen;ich helfe / ich half / ich habe geholfen;pomoći;/
+Verb;;erzählen;ich erzähle / ich erzählte / ich habe erzählt;ispričati;/
+Verb;;erreichen;ich erreiche / ich erreichte / ich habe erreicht;postići;/
+Verb;;sich vorstellen;ich stelle mich vor / ich stellte mich vor / ich habe mich vorgestellt;predstaviti se;/
+Verb;;ziehen;ich ziehe / ich zog / ich habe gezogen;vući;/
+Verb;;versuchen;ich versuche / ich versuchte / ich habe versucht;pokušati;/
+Verb;;laufen;ich laufe / ich lief / ich bin gelaufen;hodati / trčati;/
+Verb;;gewinnen;ich gewinne / ich gewann / ich habe gewonnen;pobijediti;/
+Verb;;suchen;ich suche / ich suchte / ich habe gesucht;tražiti;/
+Verb;;erklären;ich erkläre / ich erklärte / ich habe erklärt;razjasniti / objasniti;/
+Verb;;sich entscheiden;ich entscheide mich / ich entschied mich / ich habe mich entschieden;odlučiti se;/
+Verb;;wählen;ich wähle / ich wählte / ich habe gewählt;odabrati;/
+Verb;;liegen;ich liege / ich lag / ich habe gelegen;ležati;/
+Verb;;meinen;ich meine / ich meinte / ich habe gemeint;misliti;/
+Verb;;verlieren;ich verliere / ich verlor / ich habe verloren;izgubiti;/
+Verb;;studieren;ich studiere / ich studierte / ich habe studiert;studirati;/
+Verb;;sich setzen;ich setze mich / ich setzte mich / ich habe mich gesetzt;sjesti se;/
+Verb;;hoffen;ich hoffe / ich hoffte / ich habe gehofft;nadati (se);/
+Verb;;vergessen;ich vergesse / ich vergaß / ich habe vergessen;zaboraviti;/
+Verb;;sitzen;ich sitze / ich saß / ich habe gesessen;sjesti;/
+Verb;;einladen;ich lade ein / ich lud ein / ich habe eingeladen;pozvati / uručiti poziv;/
+Verb;;beschreiben;ich beschreibe / ich beschrieb / ich habe beschrieben;opisati;/
+Verb;;sich anschauen;ich schaue mir an / ich schaute mir an / ich habe mir angeschaut;pogledati se;/
+Verb;;ändern;ich ändere / ich änderte / ich habe geändert;promijeniti;/
+Verb;;besuchen;ich bescuche / ich besuchte / ich habe besucht;postjetiti;/
+Verb;;nutzen;ich nutze / ich nutzte / ich habe genutzt;koristiti;/
+Verb;;kochen;ich koche / ich kochte / ich habe gekocht;kochen;/
+Verb;;feiern;iche feiere / ich feierte / ich habe gefeiert;slaviti;/
+Verb;;fallen;ich falle / ich fiel / ich bin gefallen;pasti;/
+Verb;;bauen;ich baue / ich baute / ich habe gebaut;graditi / praviti;/
+Verb;;entwicklen;ich entwickle / ich entwickelte / ich habe eintwickelt;razvijati;/
+Verb;;erwarten;ich erwarte / ich erwartete / ich habe erwartet;očekivati;/
+Verb;;bezahlen;ich bezahle / ich bezahlte / ich habe bezahlt;platiti;/
+Verb;;verkaufen;ich verkaufe / ich verkaufte / ich habe verkauft;prodati;/
+Verb;;tragen;ich trage / ich trug / ich habe getragen;nositi;/
+Verb;;planen;ich plane / ich plante / ich habe geplant;planirati;/
+Verb;;danken;ich danke / ich dankte / ich habe gedankt;zahvaliti;/
+Verb;;sich fühlen;ich fühle mich / ich fühlte mich / ich habe mich gefühlt;osjećati se;/
+Verb;;übernehmen;ich übernehme / ich übernahm / ich habe übernommen ;preuzeti;/
+Verb;;sich erinnern;ich erinnere mich / ich erinnerte mich / ich habe erinnert;prisjetiti se;/
+Verb;;merken;ich merke / ich merkte / ich habe gemerkt;primijetiti / shvatiti;/
+Verb;;lieben;ich liebe / ich liebte / ich habe geliebt;živjeti;/
+Verb;;erkennen;ich erkenne / ich erkannte / ich habe erkannt;prepoznati;/
